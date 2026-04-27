@@ -36,7 +36,7 @@ Este projeto foi desenvolvido utilizando ferramentas do ecossistema Apple:
 ## 📄 Suporte e Privacidade  
 Para mais informações, consulte:
 
-* [Termos de uso](./Terms.md)
+* [**Perguntas frequentes**](./QA.md)
 * [**Política de privacidade**](./Privacy.md)
   
 --- 
